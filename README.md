@@ -58,7 +58,7 @@
         </section>
         <section id="blog">
             <h2>Blog</h2>
-            <p>Coming soon...</p>
+            <p>My old blog is in <a href="https://medium.com/@converseshan">Medium</a>. A new blog is coming soon...</p>
         </section>
         <section id="contact">
             <h2>Contact</h2>
