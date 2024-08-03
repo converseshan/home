@@ -87,9 +87,8 @@
             </form>
         </section>
     </div>    
-    <line>
-
-    </line>
+    <hr>
+    <hr>
     <footer>
         <p>&copy; August 2024 Ravi Ramaseshan</p>
     </footer>
