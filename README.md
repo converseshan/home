@@ -62,22 +62,27 @@
         </section>
         <section id="contact">
             <h2>Contact</h2>
-            <p>The best way to reach me is via <a href="https://www.linkedin.com/in/raviramaseshan/">Linkedin</p>
+            <p>The best way to reach me is via <a href="https://www.linkedin.com/in/raviramaseshan/">Linkedin</a>. You can also use the form below
+            </p>
             <form action="https://formspree.io/f/mldrbavy" method="POST">
                 <div>
-                    <label for="name">Name</label>
+                    <label for="name">Your Name </label>
                     <input type="text" id="name" name="name" required>
                 </div>
                 <div>
-                    <label for="email">Email</label>
+                    <label for="email">Your Email </label>
                     <input type="email" id="email" name="email" required>
                 </div>
+                 <div>
+                    <label for="subject">Your Subject </label>
+                    <textarea id="subject" name="subject" rows="1" required></textarea>
+                </div>
                 <div>
-                    <label for="message">Notes</label>
+                    <label for="message">Your Message </label>
                     <textarea id="message" name="message" rows="4" required></textarea>
                 </div>
                 <div>
-                    <button type="submit">Submit</button>
+                    <button type="submit">Send it!</button>
                 </div>
             </form>
         </section>
