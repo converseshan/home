@@ -85,6 +85,7 @@
                     <label for="message">Your Message </label>
                     <textarea id="message" name="message" rows="4" required></textarea>
                 </div>
+                <hr>
                 <div>
                     <button type="submit">Send it!</button>
                 </div>
