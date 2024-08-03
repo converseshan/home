@@ -53,8 +53,9 @@
     <div class="container">
         <section id="about">
             <h2>About Me</h2>
-            <p>Ravi is currently a Director of SaaS & Digital Operations at ServiceNow. He has around 18 years of industry experience and a track record of leading growth strategies and driving large-scale enterprise initiatives cross-functionally across GTM, product, operations, and finance. He has an extensive background in Cloud & SaaS and lead-to-cash lifecycles and his career includes stints at Atlassian and VMware, where he was responsible for the strategy, planning, and execution of several complex end-to-end transformations, M&A integrations, and product launches.</p>
-            <p>Ravi has a bachelor's degree in engineering with an MBA from Rice University and is based in San Jose, CA. Outside of work, he loves traveling, hiking, and experimenting with cooking. He advises early growth startups on product & GTM strategy and helps a non-profit learning initiative for immigrant kids.</p>
+            <p>I am a Director of SaaS & Digital Operations at ServiceNow. I have around 18 years of experience across technology, energy, pharma and retail industries and a track record of leading growth strategies and driving large-scale enterprise initiatives cross-functionally across GTM, product, operations, and finance. I have an extensive background in Cloud & SaaS and lead-to-cash customer lifecycles. 
+             <p> I have a bachelor's degree in Electronics engineering with an MBA from Rice University. Over the last few years, I worked at companies like Atlassian and VMware, and was responsible for driving the strategy, planning, and execution of several complex end-to-end transformations, M&A integrations and product launches often working closely with leadership.</p>
+            <p> I live with my family in San Jose, California. Outside of work, I love traveling, hiking, and experimenting with cooking. In my free time, I advise early growth startups on product & GTM strategy and help a non-profit learning initiative for immigrant kids.</p>
         </section>
         <section id="blog">
             <h2>Blog</h2>
@@ -62,7 +63,7 @@
         </section>
         <section id="contact">
             <h2>Contact</h2>
-            <p>The best way to reach me is via <a href="https://www.linkedin.com/in/raviramaseshan/">Linkedin</a>. You can also use the form below
+            <p>The best way to reach me is via <a href="https://www.linkedin.com/in/raviramaseshan/">Linkedin</a>. You can also use the form below:
             </p>
             <form action="https://formspree.io/f/mldrbavy" method="POST">
                 <div>
@@ -90,7 +91,7 @@
     <hr>
     <hr>
     <footer>
-        <p>&copy; August 2024 Ravi Ramaseshan</p>
+        <p>&copy; August 2024 Ravi Ramaseshan with help from ChatGPT</p>
     </footer>
 </body>
 </html>
