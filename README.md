@@ -5,7 +5,7 @@
     <title>Ravi Ramaseshan</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: century-gothic, sans-serif;
             margin: 0;
             padding: 0;
             color: #333;
@@ -86,7 +86,10 @@
                 </div>
             </form>
         </section>
-    </div>
+    </div>    
+    <line>
+
+    </line>
     <footer>
         <p>&copy; August 2024 Ravi Ramaseshan</p>
     </footer>
