@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -50,24 +49,45 @@
         <a href="#about">About Me</a>
         <a href="#contact">Contact</a>
         <a href="#blog">Blog</a>
+        <a href="#contactform">Contact Form</a>
     </nav>
     <div class="container">
         <section id="about">
             <h2>About Me</h2>
-            <p>Ravi is a Director of SaaS & Digital Operations at ServiceNow. He has around 18 years of industry experience and a track record of leading growth strategies and driving large-scale enterprise initiatives cross-functionally across GTM, product, operations, and finance. He has an extensive background in Cloud & SaaS and lead-to-cash lifecycles and his career includes stints at Atlassian and VMware, where he managed the strategy, planning, and execution of several complex end-to-end transformations, M&A integrations, and product launches.</p>
-            <p>Ravi has a bachelor's degree in engineering with an MBA from Rice University. Ravi is based in San Jose, CA. Outside of work, he loves traveling, hiking, and experimenting with cooking. He advises early growth startups on product & GTM strategy and helps a non-profit learning initiative for immigrant kids.</p>
+            <p>Ravi is currently a Director of SaaS & Digital Operations at ServiceNow. He has around 18 years of industry experience and a track record of leading growth strategies and driving large-scale enterprise initiatives cross-functionally across GTM, product, operations, and finance. He has an extensive background in Cloud & SaaS and lead-to-cash lifecycles and his career includes stints at Atlassian and VMware, where he was responsible for the strategy, planning, and execution of several complex end-to-end transformations, M&A integrations, and product launches.</p>
+            <p>Ravi has a bachelor's degree in engineering with an MBA from Rice University and is based in San Jose, CA. Outside of work, he loves traveling, hiking, and experimenting with cooking. He advises early growth startups on product & GTM strategy and helps a non-profit learning initiative for immigrant kids.</p>
         </section>
         <section id="contact">
             <h2>Contact</h2>
-            <p>You can reach me via LinkedIn or email at ravi@example.com</p>
+            <p>You can reach me via LinkedIn or email at converseshan[AT]icloud[DOT]com</p>
         </section>
         <section id="blog">
             <h2>Blog</h2>
             <p>Coming soon...</p>
         </section>
+        <section id="contactform">
+            <h2>Contact</h2>
+            <form action="https://formspree.io/f/mldrbavy" method="POST">
+                <div>
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div>
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div>
+                    <label for="message">Notes</label>
+                    <textarea id="message" name="message" rows="4" required></textarea>
+                </div>
+                <div>
+                    <button type="submit">Submit</button>
+                </div>
+            </form>
+        </section>
     </div>
     <footer>
-        <p>&copy; 2024 Ravi Ramaseshan</p>
+        <p>&copy; August 2024 Ravi Ramaseshan</p>
     </footer>
 </body>
 </html>
