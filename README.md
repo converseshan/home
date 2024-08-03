@@ -37,7 +37,7 @@
             padding: 10px 0;
             position: fixed;
             width: 100%;
-            bottom: 0;
+            bottom: 5;
         }
     </style>
 </head>
@@ -53,9 +53,13 @@
     <div class="container">
         <section id="about">
             <h2>About Me</h2>
-            <p>I am a Director of SaaS & Digital Operations at ServiceNow. I have around 18 years of experience across technology, energy, pharma and retail industries and a track record of leading growth strategies and driving large-scale enterprise initiatives cross-functionally across GTM, product, operations, and finance. I have an extensive background in Cloud & SaaS and lead-to-cash customer lifecycles. 
-             <p> I have a bachelor's degree in Electronics engineering with an MBA from Rice University. Over the last few years, I worked at companies like Atlassian and VMware, and was responsible for driving the strategy, planning, and execution of several complex end-to-end transformations, M&A integrations and product launches often working closely with leadership.</p>
-            <p> I live with my family in San Jose, California. Outside of work, I love traveling, hiking, and experimenting with cooking. In my free time, I advise early growth startups on product & GTM strategy and help a non-profit learning initiative for immigrant kids.</p></section>
+            <p>I am a Director of SaaS & Digital Operations at ServiceNow. I have around 18 years of experience across technology, energy, pharma and retail industries and a track record of leading growth strategies and driving large-scale enterprise initiatives cross-functionally across GTM, product, operations, and finance. I have an extensive background in Cloud & SaaS and lead-to-cash customer lifecycles.
+            </p> 
+            <p> I have a bachelor's degree in Electronics engineering with an MBA from Rice University. Over the last few years, I worked at companies like Atlassian and VMware, and was responsible for driving the strategy, planning, and execution of several complex end-to-end transformations, M&A integrations and product launches often working closely with leadership.
+            </p>
+            <p> I live with my family in San Jose, California. Outside of work, I love traveling, hiking, and experimenting with cooking. In my free time, I advise early growth startups on product & GTM strategy and help a non-profit learning initiative for immigrant kids.
+            </p>
+        </section>
         <section id="blog">
             <h2>Blog</h2>
             <p>My old blog is in <a href="https://medium.com/@converseshan">Medium</a>. A new blog is coming soon...</p>
@@ -90,7 +94,9 @@
     <hr>
     <hr>
     <footer>
-        <p>&copy; August 2024 Ravi Ramaseshan with help from ChatGPT</p>
+        <p>&copy; August 2024 - Ravi Ramaseshan 
+        with help from ChatGPT
+        </p>
     </footer>
 </body>
 </html>
