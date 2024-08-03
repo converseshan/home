@@ -95,7 +95,7 @@
     <hr>
     <hr>
     <footer>
-        <p>&copy; August 2024 - Ravi Ramaseshan 
+        <p>&copy; August 2024 - Ravi Ramaseshan <br>
         with help from ChatGPT
         </p>
     </footer>
